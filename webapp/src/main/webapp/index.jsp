@@ -177,7 +177,8 @@
                     <li><a href="">Products</a></li>
                     <li><a href="">Community</a></li>
                     <li><a href="">Contact</a></li>
-<li><a href="">About</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Login</a></li>
                 </ul>
             </nav>
         </div>
